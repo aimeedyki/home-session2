@@ -1,10 +1,10 @@
-Word Count 
+Home session day 2 repo
 
-a function called words that takes in a string argument and counts the occurrences of each word in the string.
+contains the codes for the code labs and command line Application.
 
 Testing
 
-to run the test for application use: jasmine-code spec
+to run the test for application use: jasmine-node spec
 
 Version
 
